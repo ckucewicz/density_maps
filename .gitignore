@@ -1,4 +1,10 @@
+# Secrets
 .Renviron
+
+# R session/history junk
 .Rhistory
 .RData
-*.csv
+.Rproj.user/
+
+# macOS junk files
+.DS_Store
